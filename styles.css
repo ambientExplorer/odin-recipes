@@ -1,0 +1,22 @@
+body {
+    font-family: Garamond ;
+    margin: 5%;
+}
+
+li {
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.img-container {
+    color: rgb(78, 76, 76);
+    font-style: italic;
+}
+
+.img-container img {
+    width: 20%;
+}
